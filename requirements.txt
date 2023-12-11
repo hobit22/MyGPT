@@ -1,0 +1,10 @@
+langchain==0.0.349rc2
+chromadb==0.4.11
+unstructured==0.10.16
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+tiktoken==0.5.1
+openai==0.28.0
+pypdf==3.16.2
+loguru==0.7.2
+docx2txt==0.8
