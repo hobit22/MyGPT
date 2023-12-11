@@ -8,3 +8,6 @@ openai==0.28.0
 pypdf==3.16.2
 loguru==0.7.2
 docx2txt==0.8
+streamlit==1.27.2
+python-steam-api==1.2.0
+steamspypi==1.1.1
